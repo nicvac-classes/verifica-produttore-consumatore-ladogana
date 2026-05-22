@@ -25,7 +25,7 @@ class ProduttoreThread(threading.Thread):
         super().__init__()
         self.idx = idx
 
-    # DA IMPLEMENTARE (run)
+    self.dato-genera_numero()
 
 
 class ConsumatoreThread(threading.Thread):
